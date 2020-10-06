@@ -27,5 +27,6 @@
         "psr-4": {
             "sngrl\\PhpFirebaseCloudMessaging\\Tests\\": "tests/"
         }
-    }
+    },
+    "version": "0.0.1"
 }
